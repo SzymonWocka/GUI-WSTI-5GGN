@@ -1,0 +1,34 @@
+Otwieranie skrzynki wytrychem:
+Musisz mieć w ekwipunku co najmniej 1 wytrych. 
+Podejdź do skrzynki za pomocą klawiszy ruchu WSAD.
+Najedź kamerą używając myszki na skrzynie aby się podświetliła.
+Gdy skrzynka się podświetli kliknij LPM (Lewy Przycisk Myszy).
+Odgadnij szyfr przy pomocy kombinacji klawiszy A, D
+Jeśli odgadniesz klawisz dostaniesz komunikat "brzmi dobrze", 
+naciskaj ponownie klawisze A lub D w prawidłowej kombinacji aż do otworzenia się skrzyni
+Jeśli się pomylisz otrzymasz komunikat "Cholera, coś poszło nie tak" i musisz zacząć od początku
+Po odgadnięciu kombinacji otwiera się okno z zawartością skrzyni oraz twojego ekwipunku
+Aby zabrać przedmiot ze skrzyni kliknij na niego LPM 
+
+
+Logowanie się do Wirtualnej Uczelni WSTI:
+1. Uruchom przeglądarkę internetową
+2. Przejdź na stronę wsti.pl lub wpisz bezpośredni adres do wirtualnej uczelni wu.wsti.pl (jeśli wybrałeś tę opcję przejdź do punktu 4.)
+3. W menu strony wsti.pl po lewej stronie wybierz zakładkę "Strefa Studenta", a następnie "Wirtualna Uczelnia"
+4. W polu Indetyfikator wpisz swoje nazwisko małymi literami bez polskich znaków
+5. W polu hasło wpisz swój numer PESEL
+6. Naciśnij przycisk Zaloguj
+
+
+Kupowanie biletu za pomocą aplikacji moBILET:
+1. Uruchom aplikację w swoim smartfonie
+2. Przejdź do zakładki "komunikacja miejska"
+3. Wybierz miasto/obszar, w którym korzystasz z komunikacji
+4. Wybierz rodzaj transportu (autobus, tramwaj, lub trolejbus)
+5. Wybierz rodzaj biletu i ulgi
+6. Podaj numer linii oraz ilość biletów
+7. Naciśnij "skasuj bilet"
+
+
+
+
