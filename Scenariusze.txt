@@ -1,4 +1,4 @@
-Otwieranie skrzynki wytrychem:
+Otwieranie skrzynki wytrychem w grze Gothic:
 Musisz mieć w ekwipunku co najmniej 1 wytrych. 
 Podejdź do skrzynki za pomocą klawiszy ruchu WSAD.
 Najedź kamerą używając myszki na skrzynie aby się podświetliła.
@@ -30,5 +30,10 @@ Kupowanie biletu za pomocą aplikacji moBILET:
 7. Naciśnij "skasuj bilet"
 
 
-
+Tworzenie drewnianego kilofa w Minecraft:
+1. Znajdź drzewo i pozyskaj z niego drewno
+2. Przerób dwa drewna na deski w oknie ekwipunku (klawisz E) lub przy stole rzemieślniczym, stawiając jedno drzewo w dowolnym polu (pozyskasz z jednego drewna 4 deski)
+3. W oknie ekwipunku bądź przy stole rzemieślniczym zrób patyki z dwóch desek postawionych jedna nad drugą
+4. Na stole rzemieślniczym ułóż dwa patyki, jeden w dolnym środkowym polu, drugi w środkowym polu następnie ułóż trzy deski w prawym górnym, górnym środkowym i lewym górnym polu
+5. Umieść kilof w ekwipunku
 
